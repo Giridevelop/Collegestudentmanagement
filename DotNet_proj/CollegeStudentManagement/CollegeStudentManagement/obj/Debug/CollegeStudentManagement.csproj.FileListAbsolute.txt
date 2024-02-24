@@ -1,0 +1,9 @@
+D:\DotNet_proj\CollegeStudentManagement\CollegeStudentManagement\bin\Debug\CollegeStudentManagement.exe.config
+D:\DotNet_proj\CollegeStudentManagement\CollegeStudentManagement\bin\Debug\CollegeStudentManagement.exe
+D:\DotNet_proj\CollegeStudentManagement\CollegeStudentManagement\bin\Debug\CollegeStudentManagement.pdb
+D:\DotNet_proj\CollegeStudentManagement\CollegeStudentManagement\obj\Debug\CollegeStudentManagement.csprojResolveAssemblyReference.cache
+D:\DotNet_proj\CollegeStudentManagement\CollegeStudentManagement\obj\Debug\CollegeStudentManagement.Form1.resources
+D:\DotNet_proj\CollegeStudentManagement\CollegeStudentManagement\obj\Debug\CollegeStudentManagement.Properties.Resources.resources
+D:\DotNet_proj\CollegeStudentManagement\CollegeStudentManagement\obj\Debug\CollegeStudentManagement.csproj.GenerateResource.Cache
+D:\DotNet_proj\CollegeStudentManagement\CollegeStudentManagement\obj\Debug\CollegeStudentManagement.exe
+D:\DotNet_proj\CollegeStudentManagement\CollegeStudentManagement\obj\Debug\CollegeStudentManagement.pdb
